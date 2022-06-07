@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently taking the course on **Innovaccion Virtual**
 
-- 🌱 I’m currently re-learning **Azure**
-
-- 👯 I’m looking to collaborate on **Open Source projects**
+- 🌱 I’m currently learning **Azure**
 
 - 👨‍💻 All of my projects are available at my main Github account at [AlexReyCer](https://github.com/AlexReyCer)
 
