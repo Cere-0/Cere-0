@@ -5,8 +5,6 @@
 
 - I’m currently learning **Azure**
 
-- All of my projects are available at my other Github account at [AlexReyCer](https://github.com/AlexReyCer)
-
 - How to reach me **ale.rey.cer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
