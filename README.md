@@ -5,7 +5,7 @@
 
 - I’m currently learning **Azure**
 
-- How to reach me **ale.rey.cer@gmail.com**
+- How to reach me **ale.rey.cer@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
