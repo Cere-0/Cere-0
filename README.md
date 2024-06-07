@@ -13,3 +13,7 @@
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" >
   <a href="https://www.djangoproject.com/"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" height="40" width="40" ></p>
 
+  ```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Cerecero/Cerecero/blob/main/R.jpg?raw=true');]{x0000}$}
+```
+
